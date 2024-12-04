@@ -1,6 +1,8 @@
 ## I didn't write this code
 
-<img width=545 height=250 src="https://media.npr.org/assets/img/2013/12/10/istock-18586699-monkey-computer_brick-8db56ae5dcc69368afa4d1fa97438b9056b1624e.jpg?s=1100&c=85&f=webp">
+<img alt="a monkey wearing sunglasses is typing on a Macbook in an office" width=545 height=250 src="https://media.npr.org/assets/img/2013/12/10/istock-18586699-monkey-computer_brick-8db56ae5dcc69368afa4d1fa97438b9056b1624e.jpg?s=1100&c=85&f=webp">
+
+He did.
 
 <!--
 **Frescodigo/Frescodigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
